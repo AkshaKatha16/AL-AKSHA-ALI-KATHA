@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Al Aksha Ali Katha 👋</h1>
 
 <p align="center">
-  CSE student at <b>BRAC University</b> • Exploring AI, Machine Learning & everything in between 🚀
+  CSE student at <b>BRAC University</b> 
+  • Exploring AI, Machine Learning & everything in between 🚀
 </p>
 
 <p align="center">
